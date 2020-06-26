@@ -31,7 +31,7 @@ console.log(quote.all); // all quotes
 ]
 ```
 
-![Image of Uncle Iroh](https://github.com/alinakyin/iroh-says/blob/master/uncle_iroh.PNG)
+![iroh image](/uncle_iroh.PNG)
 
 
 
