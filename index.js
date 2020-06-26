@@ -11,4 +11,4 @@ module.exports = function() {
     return quotes[Math.floor(Math.random() * quotes.length)]
 };
 
-module.exports.quotes = quotes;
+module.exports.all = quotes;
