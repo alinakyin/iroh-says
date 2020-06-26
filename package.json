@@ -1,14 +1,22 @@
 {
-  "name": "iroh-says",
+  "name": "@alinakyin/iroh-says",
   "version": "1.0.0",
   "description": "get some Uncle Iroh wisdom any time anywhere",
   "main": "index.js",
   "bin": {
-    "iroh-says": "./cli.js"
+    "iroh-says": "cli.js"
   },
   "scripts": {
     "test": "node test.js"
   },
   "author": "Alina Phang",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alinakyin/iroh-says.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alinakyin/iroh-says/issues"
+  },
+  "homepage": "https://github.com/alinakyin/iroh-says#readme"
 }
