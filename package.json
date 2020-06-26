@@ -1,5 +1,5 @@
 {
-  "name": "@alinakyin/iroh-says",
+  "name": "iroh-says",
   "version": "1.0.0",
   "description": "get some Uncle Iroh wisdom any time anywhere",
   "main": "index.js",
