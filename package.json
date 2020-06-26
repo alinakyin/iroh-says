@@ -1,0 +1,12 @@
+{
+  "name": "iroh-says",
+  "version": "1.0.0",
+  "description": "get some Uncle Iroh wisdom any time anywhere",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test.js"
+  },
+  "author": "Alina Phang",
+  "license": "ISC"
+}
